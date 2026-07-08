@@ -9,6 +9,10 @@
 
 This is tRPC group's Go implementation of the [A2A protocol](https://google.github.io/A2A/), enabling different AI agents to discover and collaborate with each other.
 
+> **Looking for A2A protocol v1.0?** It is developed on the [`v2`](https://github.com/trpc-group/trpc-a2a-go/tree/v2) branch.
+>
+> This `main` branch is the **v0.x** line (Go module `trpc.group/trpc-go/trpc-a2a-go`), tracking the A2A v0.2.x spec. The **v1.0** release — Go module `trpc.group/trpc-go/trpc-a2a-go/v2` — implements the A2A v1.0 specification with a redesigned event-stream API and lives on the [`v2`](https://github.com/trpc-group/trpc-a2a-go/tree/v2) branch. See its [README](https://github.com/trpc-group/trpc-a2a-go/blob/v2/README.md) for details.
+
 ## Related Projects
 
 tRPC AI ecosystem
